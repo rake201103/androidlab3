@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="20dp"
+            android:justificationMode="inter_word"
+            android:text="Ramazan Kaldybekov is an outstanding IT specialist whose contribution to the world of technology has left an indelible mark. Born on 11/20/2003 in Almaty, Ramazan showed interest in computers and programming from early childhood.
+
+His first steps in the IT world began with learning the basics of programming back in his school years. The pursuit of knowledge and talent in the field of problem analysis and solution helped him to move quickly in this field.
+
+After receiving a bachelor's degree in computer Science from IITU, Ramazan continued his education, striving to improve his skills and broaden his horizons. His work on projects during his studies not only attracted the attention of teachers, but also earned recognition in academic circles.
+
+After completing his studies, Ramazan joined one of the leading IT companies, where his analytical skills and ability to work in a team made him a valuable asset. His career was rapidly gaining momentum, and he became a key player in the implementation of many innovative projects.
+
+Ramazan has in-depth knowledge in areas such as software development, system administration, cybersecurity and more. His ability to quickly assimilate new technologies and apply them in practice helped him become an authoritative expert in his field.
+
+In addition, Ramazan is a passionate advocate of sharing knowledge and experience. He actively participates in developer communities, speaks at conferences and publishes his research to contribute to the development of the IT community.
+
+Outside of work, Ramazan enjoys learning new programming languages, reading scientific literature and playing sports. He strives to improve not only in the professional sphere, but also in his personal life.
+
+With his hard work, dedication and talent, Ramazan continues to inspire the younger generation of IT specialists and leave his mark on the history of technology." />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
